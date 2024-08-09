@@ -6,7 +6,7 @@
 Se você ainda não tem um repositório Git, inicie um novo ou clone um existente:
 
 # Iniciar um novo repositório
-*git init*
+*git init* inicia 
 
 # OU
 
